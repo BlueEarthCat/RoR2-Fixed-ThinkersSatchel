@@ -4,6 +4,8 @@ A mod for Risk of Rain 2. Built with BepInEx and R2API.
 
 Adds items and artifacts to the game, all of which may or may not be a little weird.
 
+This project is to fix the phenomenon of a teleporter item disappearing if someone is dead during a teleporter event in multiplayer.
+
 ## Installation
 
 Release builds are published to Thunderstore: https://thunderstore.io/package/ThinkInvis/TinkersSatchel/
