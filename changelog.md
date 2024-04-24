@@ -2,6 +2,8 @@
 
 (🌧︎: Involves an accepted GitHub Pull Request or other significant assistance from the community. Thanks for your help!)
 
+**4.1.5**
+- Fixed Muti-play Teleport no item
 **4.1.4**
 
 - Fixed a potential NRE in Celestial Gambit causing the Teleporter to sometimes drop zero items.
